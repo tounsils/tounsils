@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **IoT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tounsils/tounsils](https://github.com/tounsils/tounsils)
+- 👨‍💻 All of my projects are available at [https://github.com/tounsils](https://github.com/tounsils)
 
 - 📝 I regularly write articles on [https://www.tn76.com](https://www.tn76.com)
 
