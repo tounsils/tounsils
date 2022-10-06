@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
 
 
-- 🔭 I’m currently working on [HR Laravel Project](https://github.com/tounsils/laravel_lab) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server)
+- 🔭 I’m currently working on [i-CRM](https://github.com/tounsils/i-CRM) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server)
 
 - 🌱 I’m currently managing projects on **Laravel**, **Angular**, **MySQL**
 
