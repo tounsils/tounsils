@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
 
 
-- 🔭 I’m currently working on [HR Laravel Project](https://github.com/tounsils/laravel_lab)
+- 🔭 I’m currently working on [HR Laravel Project](https://github.com/tounsils/laravel_lab) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server)
 
-- 🌱 I’m currently learning **WebPack**
+- 🌱 I’m currently managing projects on **Laravel**, **Angular**, **MySQL**
 
-- 👯 I’m looking to collaborate on **AI**
-
-- 🤝 I’m looking for help with **IoT**
+- 👯 I’m looking to collaborate on **AI** and **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tounsils](https://github.com/tounsils)
 
