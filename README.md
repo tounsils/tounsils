@@ -5,6 +5,7 @@
 
 
 - 🔭 I’m currently working on [i-CRM](https://github.com/tounsils/i-CRM) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server)
+- And [Human Resources application](https://github.com/tounsils/Human-Resources-App) using Express and Bootstrap
 
 - 🌱 I’m currently managing projects on **Laravel**, **Angular**, **MySQL**
 
