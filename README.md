@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
 
 
-- 🔭 I’m currently working on [i-CRM](https://github.com/tounsils/i-CRM) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server)
-- And [Human Resources application](https://github.com/tounsils/Human-Resources-App) using Express and Bootstrap
+- 🔭 I’m currently working on [i-CRM](https://github.com/tounsils/i-CRM) and some [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server), and [Human Resources application](https://github.com/tounsils/Human-Resources-App) using Express and Bootstrap
 
 - 🌱 I’m currently managing projects on **Laravel**, **Angular**, **MySQL**
 
