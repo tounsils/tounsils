@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ilyes Tounsi</h1>
-<h3 align="center">A passionate Software Engineer from San Diego, California, USA</h3>
+<h3 align="center">A passionate Software Engineer from Carlsbad, California, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
 
 
-- 🔭 I’m currently working on: <br> [i-CRM](https://github.com/tounsils/i-CRM) using Laravel 8.40, <br> [Rest API JSON Server](https://github.com/tounsils/rest_api_json-server) using Angular 10 and faker, <br> [Human Resources application](https://github.com/tounsils/Human-Resources-App) using Express 4.17 and Bootstrap 4.5
+- 🔭 I’m currently working on: <br> [Job Board] using **Nodejs**, **REST API**, **Express**, **MongoDB**, **Bootstrap**, **Docker**, **Reactjs**
 
-- 🌱 I’m currently managing projects on **Laravel**, **Angular**, **MySQL**
+- 🌱 I’m managed Softwre Engineers using **SQL**, **REST API**, **PHP**, **Laravel**, **MySQL**, **JavaScript**, **GitHub**, **Docker**, **Jira**, **Slack**.
 
 - 👯 I’m looking to collaborate on **AI** and **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tounsils](https://github.com/tounsils)
 
-- 📝 I regularly write articles on [https://www.tn76.com](https://www.tn76.com)
+- 📝 I regularly updating my website on [https://www.tn76.com](https://www.tn76.com). My website is built using **Reactjs** and **Bootstrap**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP**, **Reactjs**
 
 - 📫 How to reach me **tounsils@gmail.com**
 
