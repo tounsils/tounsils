@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
 
 
-- 🔭 I’m currently working on: <br> [Job Board] using **Nodejs**, **REST API**, **Express**, **MongoDB**, **Bootstrap**, **Docker**, **Reactjs**
+- 🔭 I’m currently working on: <br> Job Board using **Nodejs**, **REST API**, **Express**, **MongoDB**, **Bootstrap**, **Docker**, **Reactjs**
 
 - 🌱 I’m managed Softwre Engineers using **SQL**, **REST API**, **PHP**, **Laravel**, **MySQL**, **JavaScript**, **GitHub**, **Docker**, **Jira**, **Slack**.
 
