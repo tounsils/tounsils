@@ -1,33 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ilyes Tounsi</h1>
-<h3 align="center">A passionate Software Engineer from Carlsbad, California, USA</h3>
+# Ilyes Tounsi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tounsils&label=Profile%20views&color=0e75b6&style=flat" alt="tounsils" /> </p>
+**Senior Full-Stack Engineer — LLM evaluation, agentic workflows, advanced developer tooling**
+Carlsbad, CA · [tn76.com](https://www.tn76.com) · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · tounsils@gmail.com
 
+---
 
-- 🔭 I’m currently working on: <br> Job Board using **Nodejs**, **REST API**, **Express**, **MongoDB**, **Bootstrap**, **Docker**, **Reactjs** <br> Digital QR Card using **Nodejs**, **REST API**, **Express**, **MongoDB**, **Vite**, **Reactjs**, **Docker** [DigitalQRCard.com](https://www.digitalqrcard.com/)
+I build production web applications end-to-end and design evaluation tasks that benchmark frontier AI agents. Recent focus: deterministic test harnesses, long-context puzzle design for LLM agents, and CLI-driven developer tooling.
 
-- 🌱 I managed Softwre Engineers using **SQL**, **REST API**, **PHP**, **Laravel**, **MySQL**, **JavaScript**, **GitHub**, **Docker**, **Jira**, **Slack**.
+### What I'm working on
 
-- 👯 I’m looking to collaborate on **AI** and **ML**
+- **LLM evaluation tasks** for an agent-benchmark program (Python, Docker, pytest). Authoring stateful environments with hidden constraints, mislabel traps, and seasonal-gate puzzle mechanics that calibrate agent difficulty against models like Claude Opus 4.6 and GPT-5.
+- **Timecards** — a local-first desktop time tracker for managing multiple concurrent projects ([repo](https://github.com/tounsils/timecards)).
+- **Digital QR Card** — full-stack platform (Node, Express, MongoDB, Vite + React) at [digitalqrcard.com](https://www.digitalqrcard.com/).
 
-- 👨‍💻 All of my projects are available at [https://github.com/tounsils](https://github.com/tounsils)
+### Stack
 
-- 📝 I regularly updating my website on [https://www.tn76.com](https://www.tn76.com). My website is built using **Reactjs** and **Bootstrap**
+**Languages** — Python, TypeScript, JavaScript, PHP, C++, Bash
+**Frontend** — Next.js, React, React Native, Vue, Tailwind, Bootstrap
+**Backend** — Node.js, Express, Laravel, REST APIs
+**Testing** — pytest (boundary + edge-case validation, fixture-driven integration), Jest, deterministic harnesses
+**AI / LLM** — agent evaluation, prompt-trap design, long-context puzzle authoring, RLHF-adjacent annotation workflows, Anthropic + OpenAI APIs
+**DevOps / Cloud** — AWS (Solutions Architect track), Docker, Kubernetes, Jenkins, Nginx, CI/CD
+**Databases** — MongoDB, PostgreSQL, MySQL, MariaDB
+**Tooling** — Claude Code, advanced CLI automation, WSL, git workflows
 
-- 💬 Ask me about **PHP**, **Reactjs**
+### Selected projects
 
-- 📫 How to reach me **tounsils@gmail.com**
+| Project | What it is | Stack |
+|---|---|---|
+| [`timecards`](https://github.com/tounsils/timecards) | Local desktop time tracker; multi-project concurrent tracking | Python, Windows binaries |
+| [`technical-assessment-deploy`](https://github.com/tounsils/technical-assessment-deploy) | Deployable hiring-assessment platform | TypeScript, Next.js |
+| [`tn76-radiotv`](https://github.com/tounsils/tn76-radiotv) | Streaming/media web app | TypeScript |
+| [`i-CRM`](https://github.com/tounsils/i-CRM) | Self-hosted CRM (leads, invoicing, staff) — 6★ | Laravel, Blade |
+| [`Human-Resources-App`](https://github.com/tounsils/Human-Resources-App) | HR platform: payroll, recruiting, performance | JavaScript |
+| [`AWS-Solutions-Architect-Professional`](https://github.com/tounsils/AWS-Solutions-Architect-Professional) | Notes + reference material for the SAP-C02 cert | — |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/mohameditounsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohameditounsi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10537019/mohamed-tounsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10537019/mohamed-tounsi" height="30" width="40" /></a>
-<a href="https://www.behance.net/tn76com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tn76com" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tounsils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tounsils" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tounsils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tounsils" height="30" width="40" /></a>
-</p>
+### Reach me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- **Email** — tounsils@gmail.com
+- **LinkedIn** — [in/mohameditounsi](https://www.linkedin.com/in/mohameditounsi)
+- **Stack Overflow** — [10537019/mohamed-tounsi](https://stackoverflow.com/users/10537019/mohamed-tounsi)
+- **HackerRank** — [tounsils](https://www.hackerrank.com/tounsils)
 
-
+<sub>Open to senior full-stack roles with an LLM-evaluation, agent-benchmarking, or developer-tooling component.</sub>
