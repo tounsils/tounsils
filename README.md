@@ -1,45 +1,56 @@
 # Ilyes Tounsi
 
-**Senior Full-Stack Engineer — LLM evaluation, agentic workflows, advanced developer tooling**
-Carlsbad, CA · [tn76.com](https://www.tn76.com) · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · tounsils@gmail.com
+**Full-Stack Software Engineer & AI/ML Integrator.** MCP servers, agent architecture, LLM evaluation.
+
+San Diego, CA · [tounsils.github.io](https://tounsils.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · tounsils@gmail.com
 
 ---
 
-I build production web applications end-to-end and design evaluation tasks that benchmark frontier AI agents. Recent focus: deterministic test harnesses, long-context puzzle design for LLM agents, and CLI-driven developer tooling.
+Twenty years shipping production systems end to end: architecture, backend, cloud, frontend, data pipelines. The last three of those layering LLM applications, agent orchestration and evaluation pipelines on top.
 
-### What I'm working on
+What I care about is the part most AI products skip: making the thing provable. Typed tool contracts instead of prompts, answers grounded in real data instead of generated, and an evaluation corpus wired as a release gate so a failure blocks the ship rather than starting a discussion.
 
-- **LLM evaluation tasks** for an agent-benchmark program (Python, Docker, pytest). Authoring stateful environments with hidden constraints, mislabel traps, and seasonal-gate puzzle mechanics that calibrate agent difficulty against models like Claude Opus 4.6 and GPT-5.
-- **Timecards** — a local-first desktop time tracker for managing multiple concurrent projects ([repo](https://github.com/tounsils/timecards)).
-- **Digital QR Card** — full-stack platform (Node, Express, MongoDB, Vite + React) at [digitalqrcard.com](https://www.digitalqrcard.com/).
+## ask-me-mcp
 
-### Stack
+A public reference implementation of that pattern, and the fastest way to see how I build.
 
-**Languages** — Python, TypeScript, JavaScript, PHP, C++, Bash
-**Frontend** — Next.js, React, React Native, Vue, Tailwind, Bootstrap
-**Backend** — Node.js, Express, Laravel, REST APIs
-**Testing** — pytest (boundary + edge-case validation, fixture-driven integration), Jest, deterministic harnesses
-**AI / LLM** — agent evaluation, prompt-trap design, long-context puzzle authoring, RLHF-adjacent annotation workflows, Anthropic + OpenAI APIs
-**DevOps / Cloud** — AWS (Solutions Architect track), Docker, Kubernetes, Jenkins, Nginx, CI/CD
-**Databases** — MongoDB, PostgreSQL, MySQL, MariaDB
-**Tooling** — Claude Code, advanced CLI automation, WSL, git workflows
+**[github.com/tounsils/ask-me-mcp](https://github.com/tounsils/ask-me-mcp)** · MIT · listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/) as `io.github.tounsils/ask-me-mcp`
 
-### Selected projects
+Six typed tools, JSON-schema strict. External grounding, so the model never invents. Confidence and sources on every response. A 15-case evaluation corpus that gates releases. OAuth 2.1 with anonymous dynamic client registration and PKCE. Two transports: stdio for local, Streamable HTTP for the deployed endpoint.
+
+It answers questions about my work, patterns and availability. Install it and interrogate it rather than taking my word for anything:
+
+```
+https://ask-me-mcp-xi.vercel.app/api/mcp
+```
+
+## Currently
+
+- **Senior engineering at NXT Robotics.** Operator console and agent layer turning device telemetry into decisions for physical-security and field-equipment fleets.
+- **VP of Engineering (advisory) at AIMIA.** Multi-agent assessment platform: specialist agents plus a supervisor synthesizer, real-time voice, multilingual output, encrypted PII with blind-index lookup.
+- **Founder of [digitalqrcard.com](https://www.digitalqrcard.com).** Node, Express, MongoDB, Vite + React.
+- Taking a small number of **fractional CTO and fixed-scope engagements** alongside those → [scope and terms](https://tounsils.github.io/fractional/)
+
+## Stack
+
+**Languages.** TypeScript, Python, JavaScript, PHP, Bash
+**AI / LLM.** MCP servers, multi-agent orchestration, RAG, evaluation corpora and certification gates, real-time voice, AWS Bedrock, Vertex AI
+**Frontend.** React, Next.js, Vite, TanStack, Tailwind
+**Backend.** Node.js, Express, Laravel, FastAPI, REST
+**Cloud / DevOps.** AWS (Lambda, ECS, Aurora, Cognito, SAM), GCP Cloud Run, Vercel, Docker, CI/CD
+**Data.** MongoDB, PostgreSQL, MySQL
+**Testing.** pytest, Jest, deterministic harnesses, eval runners
+
+## Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [`timecards`](https://github.com/tounsils/timecards) | Local desktop time tracker; multi-project concurrent tracking | Python, Windows binaries |
+| [`ask-me-mcp`](https://github.com/tounsils/ask-me-mcp) | Reference MCP server: typed tools, grounding, eval-gated releases, OAuth 2.1 | TypeScript, MCP SDK, Zod, Vercel |
+| [`timecards`](https://github.com/tounsils/timecards) | Local-first desktop time tracker for concurrent projects | Python, Windows binaries |
 | [`technical-assessment-deploy`](https://github.com/tounsils/technical-assessment-deploy) | Deployable hiring-assessment platform | TypeScript, Next.js |
-| [`tn76-radiotv`](https://github.com/tounsils/tn76-radiotv) | Streaming/media web app | TypeScript |
-| [`i-CRM`](https://github.com/tounsils/i-CRM) | Self-hosted CRM (leads, invoicing, staff) — 6★ | Laravel, Blade |
-| [`Human-Resources-App`](https://github.com/tounsils/Human-Resources-App) | HR platform: payroll, recruiting, performance | JavaScript |
-| [`AWS-Solutions-Architect-Professional`](https://github.com/tounsils/AWS-Solutions-Architect-Professional) | Notes + reference material for the SAP-C02 cert | — |
+| [`tn76-radiotv`](https://github.com/tounsils/tn76-radiotv) | Streaming media web app | TypeScript, React |
+| [`i-CRM`](https://github.com/tounsils/i-CRM) | Self-hosted CRM: leads, invoicing, staff | Laravel, Blade |
 
-### Reach me
+## Reach me
 
-- **Email** — tounsils@gmail.com
-- **LinkedIn** — [in/mohameditounsi](https://www.linkedin.com/in/mohameditounsi)
-- **Stack Overflow** — [10537019/mohamed-tounsi](https://stackoverflow.com/users/10537019/mohamed-tounsi)
-- **HackerRank** — [tounsils](https://www.hackerrank.com/tounsils)
-
-<sub>Open to senior full-stack roles with an LLM-evaluation, agent-benchmarking, or developer-tooling component.</sub>
+**tounsils@gmail.com** · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · [résumé](https://tounsils.github.io/resume.html)
