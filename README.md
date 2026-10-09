@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer & AI/ML Integrator.** MCP servers, agent architecture, LLM evaluation.
 
-San Diego, CA · [tounsils.github.io](https://tounsils.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · tounsils@gmail.com
+San Diego, CA · [tounsils.github.io](https://tounsils.github.io/) · [tn76.com](https://www.tn76.com) · [LinkedIn](https://www.linkedin.com/in/mohameditounsi) · tounsils@gmail.com
 
 ---
 
@@ -29,6 +29,7 @@ https://ask-me-mcp-xi.vercel.app/api/mcp
 - **Senior engineering at NXT Robotics.** Operator console and agent layer turning device telemetry into decisions for physical-security and field-equipment fleets.
 - **VP of Engineering (advisory) at AIMIA.** Multi-agent assessment platform: specialist agents plus a supervisor synthesizer, real-time voice, multilingual output, encrypted PII with blind-index lookup.
 - **Founder of [digitalqrcard.com](https://www.digitalqrcard.com).** Node, Express, MongoDB, Vite + React.
+- **[tn76.com](https://www.tn76.com)**, my consulting entity, and where the self-serve work lives: an SEO product for home-service businesses, a catalog of small web apps, and fixed-fee measurement engagements.
 - Taking a small number of **fractional CTO and fixed-scope engagements** alongside those → [scope and terms](https://tounsils.github.io/fractional/)
 
 ## Stack
