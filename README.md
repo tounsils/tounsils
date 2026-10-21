@@ -46,6 +46,7 @@ https://ask-me-mcp-xi.vercel.app/api/mcp
 
 | Project | What it is | Stack |
 |---|---|---|
+| [`claude-code-skills`](https://github.com/tounsils/claude-code-skills) | Ten engineering skills for Claude Code, Cursor and Copilot: diff review, restructuring, PRs, test gaps, debugging, security, CI triage | Markdown, Node |
 | [`ask-me-mcp`](https://github.com/tounsils/ask-me-mcp) | Reference MCP server: typed tools, grounding, eval-gated releases, OAuth 2.1 | TypeScript, MCP SDK, Zod, Vercel |
 | [`timecards`](https://github.com/tounsils/timecards) | Local-first desktop time tracker for concurrent projects | Python, Windows binaries |
 | [`technical-assessment-deploy`](https://github.com/tounsils/technical-assessment-deploy) | Deployable hiring-assessment platform | TypeScript, Next.js |
