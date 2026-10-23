@@ -34,12 +34,12 @@ https://ask-me-mcp-xi.vercel.app/api/mcp
 
 ## Stack
 
-**Languages.** TypeScript, Python, JavaScript, PHP, Bash
+**Languages.** TypeScript, Python, Go, JavaScript, PHP, Bash
 **AI / LLM.** MCP servers, multi-agent orchestration, RAG, evaluation corpora and certification gates, real-time voice, AWS Bedrock, Vertex AI
 **Frontend.** React, Next.js, Vite, TanStack, Tailwind
-**Backend.** Node.js, Express, Laravel, FastAPI, REST
+**Backend.** Node.js, Express, Go, Laravel, FastAPI, REST
 **Cloud / DevOps.** AWS (Lambda, ECS, Aurora, Cognito, SAM), GCP Cloud Run, Vercel, Docker, CI/CD
-**Data.** MongoDB, PostgreSQL, MySQL
+**Data.** MongoDB, PostgreSQL, MySQL, SQLite
 **Testing.** pytest, Jest, deterministic harnesses, eval runners
 
 ## Selected work
@@ -48,10 +48,10 @@ https://ask-me-mcp-xi.vercel.app/api/mcp
 |---|---|---|
 | [`claude-code-skills`](https://github.com/tounsils/claude-code-skills) | Ten engineering skills for Claude Code, Cursor and Copilot: diff review, restructuring, PRs, test gaps, debugging, security, CI triage | Markdown, Node |
 | [`ask-me-mcp`](https://github.com/tounsils/ask-me-mcp) | Reference MCP server: typed tools, grounding, eval-gated releases, OAuth 2.1 | TypeScript, MCP SDK, Zod, Vercel |
+| [`i-CRM`](https://github.com/tounsils/i-CRM) | Self-hostable CRM: leads, proposals, estimates, invoices, payments, PDF documents. One static binary and one SQLite file, no runtime to install | Go, SQLite |
 | [`timecards`](https://github.com/tounsils/timecards) | Local-first desktop time tracker for concurrent projects | Python, Windows binaries |
 | [`technical-assessment-deploy`](https://github.com/tounsils/technical-assessment-deploy) | Deployable hiring-assessment platform | TypeScript, Next.js |
 | [`tn76-radiotv`](https://github.com/tounsils/tn76-radiotv) | Streaming media web app | TypeScript, React |
-| [`i-CRM`](https://github.com/tounsils/i-CRM) | Self-hosted CRM: leads, invoicing, staff | Laravel, Blade |
 
 ## Reach me
 
